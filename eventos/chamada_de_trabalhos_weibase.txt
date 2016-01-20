@@ -1,0 +1,88 @@
+Apresentação
+
+O Workshop de Educação e Informática Bahia-Alagoas-Sergipe (WEIBASE) é um fórum regional que visa divulgar e discutir os avanços
+político-pedagógicos na educação superior e técnica em cursos de informática e o uso de Tecnologias de Informação e Comunicação (TIC) na educação. O público-alvo deste evento é formado por coordenadores de curso, professores, estudantes e profissionais interessados em técnicas inovadoras voltadas à melhoria do ensino de informática e também no uso de tecnologias para o aperfeiçoamento de processos de ensino-aprendizagem. A programação do WEIBASE contará com a apresentação de artigos completos e de ferramentas computacionais de auxílio ao ensino de informática e das demais áreas do conhecimento. Para o evento, é esperada a submissão de artigos relacionados aos seguintes temas (não exaustivos):
+
+Trilha 1 – Educação em Computação
+
+Atração de talentos para a computação;
+Cursos, currículos, programas e iniciativas educacionais;
+Desenvolvimento de ferramentas de auxílio ao ensino-aprendizagem de computação;
+Educação a distância na área de computação;
+Educação inclusiva;
+Ensino de hardware;
+Estilos de aprendizagem;
+Ética;
+Expectativa do mercado/sociedade e perfil do profissional egresso;
+Prática profissional;
+Experiência com o uso de software livre;
+Experiências de projetos de extensão universitária com o auxílio da computação;
+Experiências inovadoras na elaboração de grades curriculares para
+cursos de computação;
+Formação multidisciplinar em cursos de computação: experiências e tendências;
+Grandes desafios de educação em computação;
+Infraestrutura e políticas de atualização (laboratórios, bibliotecas e afins);
+Integração academia-indústria e estágios;
+Integração entre ensino de graduação e pós-graduação;
+Metodologias de avaliação;
+Metodologias de ensino e aprendizagem;
+Metodologias de ensino na área de computação;
+Metodologias de estudo;
+Processos de avaliação em cursos de computação (avaliação de docentes,
+discentes, curso, entre outros);
+Trabalhos de conclusão de curso.
+
+Trilha 2 – Usos das TICs na Educação
+
+Educação a distância mediada por TIC;
+E-learning, b-learning e m-learning;
+Ensino de conteúdos específicos enriquecidos por TIC;
+Ensino e aprendizagem mediados por TIC;
+Experiências com o uso das TICs e novas abordagens de formação;
+Experiências com redes sociais, web 2.0 e ambientes virtuais de aprendizagem;
+Fundamentos éticos, psicológicos e pedagógicos para a informática na educação;
+Informática aplicada à aprendizagem de conteúdos escolares;
+Informática na educação especial;
+Informática na escola e na sala de aula, incluindo experiências com Internet;
+Integração das TICs no currículo;
+Letramento digital e desenvolvimento profissional;
+Novas tendências de uso das TICs na educação;
+Novos cenários de formação para a educação digital;
+Perspectivas teóricas e estratégias sobre a formação de educadores
+para o uso das TICs;
+Políticas públicas para a informática na educação;
+Projetos colaborativos com suporte das tecnologias;
+Software livre na educação;
+Tecnologias e plataformas de apoio à formação;
+Tecnologias móveis e mobile learning na formação.
+
+A coordenação do evento pode, a seu critério, reclassificar um artigo
+submetido caso verifique a aderência do texto à trilha diferente da
+selecionada pelo autor.
+
+Datas Importantes
+
+21/02/2016 – Prazo final para submissão (até às 23:55 horas)
+
+28/03/2016 – Notificação de trabalhos aceitos
+
+10/04/2016 – Entrega da versão final dos trabalhos aceitos (até às 23:55 horas)
+
+Submissão de Artigos:
+
+O artigo deve ressaltar os aspectos inovadores e contribuições no âmbito da educação em computação e do uso das TICs na educação. A submissão de trabalhos será exclusivamente eletrônica através do JEMS/SBC. O formato de submissão deverá seguir o estilo dos artigos da SBC (LINK). O artigo deve ser escrito em português ou inglês e enviado em formato PDF. O artigo deve conter no máximo 10 páginas, incluindo resumo, abstract, figuras, diagramas e referências.
+
+Os artigos selecionados serão apresentados em sessões técnicas e publicados em meio digital. A publicação do artigo nos anais do evento estará condicionada à inscrição de pelo menos um dos autores no evento. A seleção de trabalhos será realizada a partir da revisão por membros do comitê de programa do WEIBASE 2016, sendo aceitos os trabalhos que atingirem os maiores índices, respeitado o limite máximo de apresentações definidas para o evento.
+
+No processo de revisão, cada trabalho será analisado por pelo menos dois revisores.
+
+
+Coordenação
+
+Jorge Luis Cavalcanti Ramos (UNIVASF) – jorgeluiscavalcanti AT gmail DOT com
+Victor Sarinho (UEFS)  – vsarinho AT gmail DOT com)
+
+
+Comitê de Programa
+
+A Definir
