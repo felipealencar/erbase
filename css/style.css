@@ -74,7 +74,7 @@ p {
     box-shadow: none;
 }
 .navbar .brand img {
-    width:200px;
+    width:120px;
 }
 .navbar .nav > li > a {
     text-transform:uppercase;
@@ -96,6 +96,25 @@ p {
     background-color: #056AB2;
     transition: border-color 1s ease;
 }
+
+.navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle {
+	    border: 1px solid #fff;
+    color: #fff !important;
+    background-color: #056AB2;
+    transition: border-color 1s ease;
+	
+}
+
+.navbar .nav li.dropdown > a:hover .caret, .navbar .nav li.dropdown > a:focus .caret {
+	border-top-color: #fff;
+	border-bottom-color: #fff;
+}
+
+.navbar .nav li.dropdown > .dropdown-toggle .caret {
+	border-top-color: #fff;
+	border-bottom-color: #fff;
+}
+
 .nav-pills {
     margin-bottom: 30px;
 }
