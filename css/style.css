@@ -717,6 +717,16 @@ a.link-event:hover {
     font-weight:normal;
 }
 /*
+Tabela de Programação do ERBASE
+*/
+.programacao{
+  color:#000;
+  text-align:center;	
+}
+.table-hover .programacao{
+	border:#000;
+	}
+/*
 3.6 Newsletter
 ********************************************************************/
  .newsletter, .newsletter h2 {
