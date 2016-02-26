@@ -947,6 +947,11 @@
   .carousel-caption {
     position: static;
   }
+ 
+  .table-responsive {
+    min-height: .01%;
+    overflow-x: auto;
+ }
 }
 
 @media (max-width: 979px) {
@@ -1099,6 +1104,11 @@
     padding-right: 10px;
     padding-left: 10px;
   }
+  .table-responsive {
+    min-height: .01%;
+    overflow-x: auto;
+ }
+  
 }
 
 @media (min-width: 980px) {
@@ -1106,4 +1116,5 @@
     height: auto !important;
     overflow: visible !important;
   }
+  
 }

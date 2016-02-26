@@ -744,6 +744,16 @@ a.link-event:hover {
     font-weight:normal;
 }
 /*
+Tabela de Programação do ERBASE
+*/
+.programacao{
+  color:#000;
+  text-align:center;	
+}
+.table-hover .programacao{
+	border:#000;
+	}
+/*
 3.6 Newsletter
 ********************************************************************/
  .newsletter, .newsletter h2 {
@@ -1001,6 +1011,7 @@ a.link-event:hover {
     .price-column, .testimonial {
         margin-top:30px;
     }
+<<<<<<< HEAD
 	#fixed-footer {
 		height: 10%;
 		float: left;
@@ -1020,3 +1031,6 @@ a.link-event:hover {
 		display: block;
 	}
 }
+=======
+}
+>>>>>>> af38f5aab545cebfa223a1e584714de541b5b4ab
