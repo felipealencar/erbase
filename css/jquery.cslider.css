@@ -1,7 +1,7 @@
 .da-slider {
     width: 100%;
     min-width: 320px;
-    height: 520px;
+    padding-bottom: 0%;
     position: relative;
     margin:0 auto;
     overflow: hidden;
@@ -25,7 +25,7 @@
     top:0;
     left:0;
     width:100%;
-    height:100%;
+    padding-bottom: 40%;
     background: #fff;
     opacity:0.85;
     filter: alpha(opacity=85);
@@ -33,12 +33,15 @@
 .da-slider .container {
     margin-top:-30px;
     position:relative;
-    height:100%;
+	padding-bottom: 40%;
+
+	
 }
 .da-slide {
     position: absolute;
     width: 100%;
-    height: 100%;
+	padding-bottom: 40%;
+
     top: 0px;
     left: 0px;
     text-align: left;
@@ -96,12 +99,12 @@
 }
 .da-slide p {
     width: 45%;
-    padding:0px;
     top: 230px;
     color: #000;
-    height: 90px;
+    height: 100%;
     overflow: hidden;
     font-weight: 400;
+	padding: 0;
 }
 .da-slide .da-img {
     text-align: center;
@@ -1264,10 +1267,16 @@
         left: -50%;
         opacity: 0;
     }
+	
+	
 }
 
 @media (max-width: 979px) {
-    .da-slide h2 {
+    .container .da-slider {
+		padding-bottom: 40%;
+	}
+	
+	.da-slide h2 {
         font-size: 28px;
          top:40px;
     }
@@ -1281,7 +1290,8 @@
         font-size: 14px;
         line-height:16px;
 		color: #000;
-        top:150px;
+        top:120px;
+		max-width: 70%;
     }
     
     .da-slide .da-img {
@@ -1291,11 +1301,17 @@
     
     .da-slide .da-link {
         top:65%;
-    }   
+    }
+	.mask {
+		padding-bottom: 80%;
+	}	
 }
 
 @media (max-width: 767px) {
-    .da-slide h2 {
+	.container .da-slide {
+		padding-bottom: 40%;
+	}
+	.da-slide h2 {
         font-size: 20px;
         top:40px;
     }
@@ -1306,7 +1322,7 @@
     }
     
     .da-slide p {
-        display:none;
+		width: 100%;
     }
     .da-slide .da-img {
         top:50px;
@@ -1317,10 +1333,19 @@
         font-size:12px;
         top:150px; 
     }  
+	.da-slider {
+		padding-bottom: 40%;
+	}
+	.mask {
+		padding-bottom: 80%;
+	}
 }
 
 @media (max-width: 480px) {
-    .da-slide h2 {
+    .container .da-slide {
+		padding-bottom: 40%;
+	}
+	.da-slide h2 {
         font-size: 16px;
         top:30px;
     }
@@ -1336,4 +1361,10 @@
     .da-slide .da-link {
         display:none;
     } 
+	.da-slider {
+		padding-bottom: 40%;
+	}
+	.da-slider .mask {
+		padding-bottom: 100%;
+	}
 }
