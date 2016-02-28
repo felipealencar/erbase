@@ -54,6 +54,10 @@ p {
     font-weight: 100;
     color: #fff;
 }
+.new{
+	color:#F00;
+	font-weight:bold;
+}
 .navbar {
     background: #185886;
     margin-bottom:0;
