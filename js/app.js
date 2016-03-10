@@ -377,8 +377,8 @@ $("#send-mail").click(function () {
 
 function initializeMap() {
 
-    var lat = '-9.667307'; //Set your latitude.
-    var lon = '-35.723055'; //Set your longitude.
+    var lat = '-9.665918'; //Set your latitude.
+    var lon = '-35.712422'; //Set your longitude.
 
     var centerLon = lon - 0.0105;
 
@@ -400,7 +400,7 @@ function initializeMap() {
     });
 
     var infowindow = new google.maps.InfoWindow({
-        content: "O ERBASE 2016 é aqui!"
+        content: "O ERBASE 2016 &eacute; aqui!"
     });
 
     google.maps.event.addListener(marker, 'click', function () {
