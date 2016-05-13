@@ -689,7 +689,7 @@ a.link-event:hover {
     line-height:1.3em;
 }
 /*
-3.5 Tabela de Preços
+3.5 Tabela de Minicursos
 ******************************************************************/
 .tableminicursos {
 	width: 100%;
@@ -717,7 +717,6 @@ a.link-event:hover {
     border-collapse: collapse;
     border-spacing: 0;
 	width:100%;
-	height:100%;
 }.tableminicursos tr:last-child td:last-child {
 	-moz-border-radius-bottomright:0px;
 	-webkit-border-bottom-right-radius:0px;
